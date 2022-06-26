@@ -1,0 +1,32 @@
+body{
+   font-family:poppions;
+   line-height: 1.4;
+background-color:#00FFFF;
+width: 500px;
+margin: auto;
+}
+
+.Form{
+  background: rgb{147, 5, 5, 0.2};
+  padding: 2.5rem 2.5 rem;
+  border-radius: 2rem;
+  width: 500 px;
+  margin: auto;
+}
+
+
+
+.input-headings{
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+
+.form-inputs{
+  display: block;
+  width: 90%;
+  height: 2rem;
+  padding: 0.25rem 0.75rem;
+  background-color:#FFF;
+  border: 1px solid #cedida;
+  border-radius: 0.25rem;
+}
